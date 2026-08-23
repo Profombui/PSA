@@ -1,0 +1,6 @@
+metric,value
+Total Master Corpus Rows,31273
+Unique Sentence Pairs,31273
+Duplicate Rows,0
+Suspect Mismatch Rows,43
+Clean Production Rows,31230
